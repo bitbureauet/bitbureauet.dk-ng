@@ -2,7 +2,6 @@
 date = "2016-01-31T17:22:23+01:00"
 draft = true
 title = "5 punkter for et frit og åbent internet"
-
 +++
 
 Bitbureauet er en uafhængig internetpolitisk tænketank og en interesseorganisation for internettet. At vi er internetpolitiske betyder, at vi undersøger hvilke retninger internettets udvikling kan og bør tage. Samtidig bidrager vi med værktøjer til at bygge det frie og åbne internet vi ønsker. Internettet er langtfra et neutralt teknologisk værktøj; det har politiske effekter og bliver påvirket politisk. Følgende punkter mener vi er nødvendige for at internettet kan blive frit og åbent:
