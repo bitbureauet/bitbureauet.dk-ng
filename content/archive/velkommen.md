@@ -21,6 +21,7 @@ internettet kan kaldes frit og åbent:
   * [Transparens](https://bitbureauet.dk/fem-punkter-for-et-frit-og-abent-internet/#Transparens)
   * [Åben innovation og netværksneutralitet](https://bitbureauet.dk/fem-punkter-for-et-frit-og-abent-internet/#Transparens)
   * [Fri kultur](https://bitbureauet.dk/fem-punkter-for-et-frit-og-abent-internet/#Frikultur)
+
 De enkelte punkter rummer konflikter mellem hvordan internettet fungerer og
 hvordan vi er vant til at vores samfund styres. Ved sin blotte tilstedeværelse
 og sin natur har internettet betydet, at vi må tænke nyt og forandre
