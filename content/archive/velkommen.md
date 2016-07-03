@@ -1,6 +1,5 @@
 +++
 title = "Velkommen til Bitbureauet"
-description = "imported from wordpress"
 tags = []
 date = "2011-04-07"
 +++
