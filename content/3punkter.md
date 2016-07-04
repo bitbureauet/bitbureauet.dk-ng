@@ -1,6 +1,5 @@
 +++
 date = "2016-01-31T17:22:23+01:00"
-draft = true
 title = "3 punkter for et frit og åbent internet"
 +++
 
