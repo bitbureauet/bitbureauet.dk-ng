@@ -1,4 +1,4 @@
-baseurl = "https://bitbureauet.dk/"
+baseurl = "https://bitbureauet.dk/ng/"
 languageCode = "da-dk"
 title = "Bitbureauet - Internetpolitisk tænketank"
 CanonifyUrls = "true"
